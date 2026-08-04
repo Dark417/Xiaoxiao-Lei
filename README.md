@@ -8,15 +8,15 @@
 
 I'm updating for more projects..
 
-- [Edgar](#edgar)
+- [Edgar DataLakehouse Chatbot](#edgar-datalakehouse-chatbot)
 - [Fast Invoices](#fast-invoices)
 - [DJ CASH CAT Personal Website](#dj-cash-cat-personal-website)
 
-### Edgar
+### Edgar DataLakehouse Chatbot
 
 Chatbot with Edgar SEC filing data.
 
-Databricks, AWS, AWS Bedrock, LangGraph, Claude Code
+Databricks, AWS, AWS Bedrock, LangGraph, Claude Code, Chatbot, Agentic AI
 
 - Try it out: [https://edgar.xiaoxiaolei.com](https://edgar.xiaoxiaolei.com)
 - See details at [Edgar Chatbot Repo](https://github.com/Dark417/1sde-edgar-06-chatbot)
