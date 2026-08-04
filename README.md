@@ -55,6 +55,21 @@ Book a service or play a game to get a discount.
 
 <img src="certificates/gqlpro.jpg" alt="GraphQL Professional Certificate" width="25%">
 
+## Skills
+
+- **Generative AI & Agents:**
+  - Google Agent Development Kit (ADK), AWS Bedrock, agent orchestration, prompt engineering, GitHub Copilot, Claude Code, Codex, spec-driven development, LangChain, LangGraph, RAG, vector databases, Streamlit
+- **Languages:**
+  - Java, Python, SQL, JavaScript, TypeScript, HTML, CSS
+- **Frameworks:**
+  - Spring Boot, FastAPI, Flask, Node.js, React, Next.js, GraphQL, RESTful APIs, Kafka, RBAC, Spring Security, OAuth, JWT, Playwright, Cucumber
+- **Databases:**
+  - MySQL, PostgreSQL, NoSQL, MongoDB, Liquibase, Databricks
+- **Cloud & DevOps:**
+  - AWS EC2, S3, ECS, EKS, Lambda, Glue, SNS/SQS, Aurora, DynamoDB, CloudWatch, Terraform IaC, GCP, Docker, Kubernetes, Jenkins, Spinnaker
+- **Observability:**
+  - Datadog, Splunk, Grafana, Prometheus
+
 ## Publication
 
 [**_MultiModal Language Modelling on Knowledge Graphs for Deep Video Understanding_**](https://doi.org/10.1145/3474085.3479220), Proceedings of the 29th ACM International Conference on Multimedia (**ACM Multimedia 2021**).
